@@ -28,6 +28,7 @@ platform :mswin, :mingw do
   gem "windows-api", "~> 0.4.1"
   gem "windows-pr", "~> 1.2.1"
   gem "win32console", "~> 1.3.2"
+  gem "ffi", :require => false
 end
 
 gem 'facter', ">= 1.0.0", :path => File.expand_path("..", __FILE__)

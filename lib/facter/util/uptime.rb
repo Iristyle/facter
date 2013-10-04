@@ -9,12 +9,22 @@ module Facter::Util::Uptime
 
   def self.get_uptime_seconds_win
     require 'facter/util/wmi'
+    require 'ffi'
 
-    last_boot = ""
-    Facter::Util::WMI.execquery("select * from Win32_OperatingSystem").each do |x|
-      last_boot = x.LastBootupTime
-    end
-    self.compute_uptime(Time.parse(last_boot.split('.').first))
+    extend FFI::Library
+
+    # TODO: only Vista and newer
+    # typedef unsigned __int64 ULONGLONG;
+    # define WINAPI __stdcall
+    # define APIENTRY WINAPI
+    # http://msdn.microsoft.com/en-us/library/windows/desktop/aa383751(v=vs.85).aspx
+    # http://msdn.microsoft.com/en-us/library/cc230309.aspx
+    # ULONGLONG WINAPI GetTickCount64(void);
+    ffi_lib :kernel32
+    ffi_convention :stdcall
+    attach_function :GetTickCount64, [ ], :int
+
+    GetTickCount64() / 1000
   end
 
   private

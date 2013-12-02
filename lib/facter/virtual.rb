@@ -153,17 +153,27 @@ Facter.add("virtual") do
       require 'facter/util/wmi'
       result = nil
       Facter::Util::WMI.execquery("SELECT manufacturer, model FROM Win32_ComputerSystem").each do |computersystem|
-        result =
-          case computersystem.model
-          when /VirtualBox/ then "virtualbox"
-          when /Virtual Machine/
-            computersystem.manufacturer =~ /Microsoft/ ? "hyperv" : nil
-          when /VMware/ then "vmware"
-          when /KVM/ then "kvm"
-          else "physical"
-          end
+        case computersystem.model
+        when /VirtualBox/
+          result = "virtualbox"
+        when /Virtual Machine/
+          result = "hyperv" if computersystem.manufacturer =~ /Microsoft/
+        when /VMware/
+          result = "vmware"
+        when /KVM/
+          result = "kvm"
+        when /Bochs/
+          result = "bochs"
+        end
+
+        if result.nil? and computersystem.manufacturer =~ /Xen/
+          result = "xen"
+        end
+
         break
       end
+      result ||= "physical"
+
       result
   end
 end
@@ -232,7 +242,7 @@ Facter.add("is_virtual") do
   confine :kernel => %w{Linux FreeBSD OpenBSD SunOS HP-UX Darwin GNU/kFreeBSD windows}
 
   setcode do
-    physical_types = %w{physical xen0 vmware_server vmware_workstation openvzhn}
+    physical_types = %w{physical xen0 vmware_server vmware_workstation openvzhn vserver_host}
 
     if physical_types.include? Facter.value(:virtual)
       "false"

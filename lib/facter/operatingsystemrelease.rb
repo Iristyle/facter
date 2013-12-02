@@ -5,7 +5,7 @@
 # Resolution:
 #   On RedHat derivatives, returns their '/etc/<variant>-release' file.
 #   On Debian, returns '/etc/debian_version'.
-#   On Ubuntu, parses '/etc/issue' for the release version.
+#   On Ubuntu, parses '/etc/lsb-release' for the release version.
 #   On Suse, derivatives, parses '/etc/SuSE-release' for a selection of version
 #   information.
 #   On Slackware, parses '/etc/slackware-version'.
@@ -66,8 +66,8 @@ end
 Facter.add(:operatingsystemrelease) do
   confine :operatingsystem => %w{Ubuntu}
   setcode do
-    if release = Facter::Util::FileRead.read('/etc/issue')
-      if match = release.match(/Ubuntu ((\d+.\d+)(\.(\d+))?)/)
+    if release = Facter::Util::FileRead.read('/etc/lsb-release')
+      if match = release.match(/DISTRIB_RELEASE=((\d+.\d+)(\.(\d+))?)/)
         # Return only the major and minor version numbers.  This behavior must
         # be preserved for compatibility reasons.
         match[2]
@@ -181,6 +181,34 @@ Facter.add(:operatingsystemrelease) do
   end
 end
 
+Facter.add(:operatingsystemrelease) do
+  confine :operatingsystem => :windows
+  setcode do
+    require 'facter/util/wmi'
+    result = nil
+    Facter::Util::WMI.execquery("SELECT version, producttype FROM Win32_OperatingSystem").each do |os|
+      result =
+        case os.version
+        when /^6\.2/
+          os.producttype == 1 ? "8" : "2012"
+        when /^6\.1/
+          os.producttype == 1 ? "7" : "2008 R2"
+        when /^6\.0/
+          os.producttype == 1 ? "Vista" : "2008"
+        when /^5\.2/
+          if os.producttype == 1
+            "XP"
+          else
+            os.othertypedescription == "R2" ? "2003 R2" : "2003"
+          end
+        else
+          Facter[:kernelrelease].value
+        end
+      break
+    end
+    result
+  end
+end
 
 Facter.add(:operatingsystemrelease) do
   setcode do Facter[:kernelrelease].value end

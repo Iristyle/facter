@@ -1,0 +1,50 @@
+Facter Output
+
+architecture => x64
+domain => ri.cox.net
+facterversion => 1.7.3
+fqdn => Kapaa.ri.cox.net
+gid => Administrators
+hardwareisa => unknown
+hardwaremodel => x64
+hostname => Kapaa
+id => kapaa\parity
+interfaces => Ethernet_3
+ipaddress => 192.168.1.128
+ipaddress_ethernet_3 => 192.168.1.128
+is_virtual => false
+kernel => windows
+kernelmajversion => 6.3
+kernelrelease => 6.3.9431
+kernelversion => 6.3.9431
+macaddress => 10:BF:48:85:43:B1
+macaddress_ethernet_3 => 10:BF:48:85:43:B1
+manufacturer => American Megatrends Inc.
+memoryfree => 16.44 GB
+memoryfree_mb => 16834.19
+memorysize => 31.70 GB
+memorysize_mb => 32455.89
+memorytotal => 31.70 GB
+netmask => 255.255.255.0
+netmask_ethernet_3 => 255.255.255.0
+network_ethernet_3 => 192.168.1.0
+operatingsystem => windows
+operatingsystemrelease => 6.3.9431
+osfamily => windows
+path => D:/Users/Parity/Documents/source/00 - Puppet/facter/.bundle/gems/ruby/1.9.1/bin;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft SDKs\F#\3.0\Framework\v4.0\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\Microsoft.NET\Framework\v3.5;C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.0\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\;C:\Program Files\ConEmu\ConEmu;C:\Program Files\ConEmu;C:\tools\ruby193\bin;C:\Program Files (x86)\Windows Resource Kits\Tools\;C:\Program Files (x86)\Common Files\Nokia\Service Layer\C\Service Modules\ServiceModule_00005;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files (x86)\GnuWin32\bin;c:\program files\curl;C:\Program Files (x86)\Bitvise Tunnelier;C:\Program files\7-Zip;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL
+ SDK\2.0\bin\x64;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\Redist\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\Redist\;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Zune\;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;D:\HashiCorp\Vagrant\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\vim\bin;C:\Chocolatey\bin;c:\Program Files (x86)\Git\bin;C:\OptiPNG;C:\tools\OptiPNG;C:\tools\Python27;C:\tools\Python27\Scripts;C:\tools\Python27\lib\site-packages\django\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\GitExtensions;C:\libjpeg-turbo64\bin;C:\tools\PhantomJS;C:\vagrant\bin;C:\ruby193\bin;C:\Users\Parity\AppData\Roaming\npm;C:\PROGRA~2\Oracle\VirtualBox;C:\tools\sysinternals;C:\Program
+ Files\erl5.10.2\bin;C:\tools\Elixir\bin
+physicalprocessorcount => 1
+processor0 => Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz
+processorcount => 1
+productname => System Product Name
+ps => tasklist.exe
+rubysitedir => C:/tools/ruby193/lib/ruby/site_ruby/1.9.1
+rubyversion => 1.9.3
+serialnumber => System Serial Number
+timezone => Eastern Daylight Time
+uptime => 8 days
+uptime_days => 8
+uptime_hours => 197
+uptime_seconds => 709947
+virtual => physical

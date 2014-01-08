@@ -1,0 +1,6678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"url64bit"
+			],
+			[
+				"Insta",
+				"installDir"
+			],
+			[
+				"pack",
+				"packageName"
+			],
+			[
+				"package",
+				"packageUrl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/util/ip/windows.rb",
+			"settings":
+			{
+				"buffer_size": 6481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/util/manufacturer.rb",
+			"settings":
+			{
+				"buffer_size": 2852,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/virtual.rb",
+			"settings":
+			{
+				"buffer_size": 7409,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/processor.rb",
+			"settings":
+			{
+				"buffer_size": 5450,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/physicalprocessorcount.rb",
+			"settings":
+			{
+				"buffer_size": 2887,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/operatingsystemrelease.rb",
+			"settings":
+			{
+				"buffer_size": 5839,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/memory.rb",
+			"settings":
+			{
+				"buffer_size": 4611,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/kernelrelease.rb",
+			"settings":
+			{
+				"buffer_size": 1124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/hardwaremodel.rb",
+			"settings":
+			{
+				"buffer_size": 2601,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/domain.rb",
+			"settings":
+			{
+				"buffer_size": 2948,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/ip/windows_spec.rb",
+			"settings":
+			{
+				"buffer_size": 2655,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/manufacturer_spec.rb",
+			"settings":
+			{
+				"buffer_size": 6749,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/wmi_spec.rb",
+			"settings":
+			{
+				"buffer_size": 566,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/macaddress_spec.rb",
+			"settings":
+			{
+				"buffer_size": 5584,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/virtual_spec.rb",
+			"settings":
+			{
+				"buffer_size": 20398,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/processor_spec.rb",
+			"settings":
+			{
+				"buffer_size": 15374,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/physicalprocessorcount_spec.rb",
+			"settings":
+			{
+				"buffer_size": 7199,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/operatingsystemrelease_spec.rb",
+			"settings":
+			{
+				"buffer_size": 10571,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/netmask_spec.rb",
+			"settings":
+			{
+				"buffer_size": 2936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/memory_spec.rb",
+			"settings":
+			{
+				"buffer_size": 13972,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Facter Output.txt",
+			"settings":
+			{
+				"buffer_size": 3818,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/kernelrelease_spec.rb",
+			"settings":
+			{
+				"buffer_size": 2020,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/ipaddress_spec.rb",
+			"settings":
+			{
+				"buffer_size": 3990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/ipaddress6_spec.rb",
+			"settings":
+			{
+				"buffer_size": 6434,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/hardwaremodel_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1796,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/domain_spec.rb",
+			"settings":
+			{
+				"buffer_size": 9638,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 310.0,
+		"selected_items":
+		[
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"git am",
+				"Git: Amend Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"layout",
+				"Layout: Columns: 2"
+			],
+			[
+				"github",
+				"GitHubinator"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"power",
+				"Set Syntax: Powershell v2"
+			]
+		],
+		"width": 562.0
+	},
+	"console":
+	{
+		"height": 323.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/User/GitHub.sublime-settings",
+		"/d/Users/Parity/Documents/source/00 - Puppet/facter/Facter Output",
+		"/C/Program Files/CrashPlan/conf/ui.properties",
+		"/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/util/uptime.rb",
+		"/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/uptime.rb",
+		"/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/uptime_seconds.rb",
+		"/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/uptime_spec.rb",
+		"/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/uptime_spec.rb",
+		"/D/Users/Parity/Documents/source/00 - Puppet/facter/Gemfile",
+		"/D/Users/Parity/Desktop/Chkdsk20101122015555.log",
+		"/d/Users/Parity/Desktop/chkdsk-on-i.txt",
+		"/D/Users/Parity/Desktop/google-contacts.csv",
+		"/U/Books/Startups/The Lean Startup.mobi",
+		"/D/Users/Parity/Documents/source/Osiris/app/js/app.coffee",
+		"/D/Users/Parity/Documents/source/Ptah/src/FieldComm2.Services.Business/Company/Company.cs",
+		"/D/Users/Parity/Documents/source/Osiris/Gruntfile.coffee",
+		"/D/Users/Parity/Documents/source/Osiris/package.json",
+		"/D/Users/Parity/Documents/source/Osiris/app/js/controllers/config.coffee",
+		"/D/Users/Parity/Documents/source/Osiris/node_modules/grunt-karma/tasks/grunt-karma.js",
+		"/D/Users/Parity/Documents/source/Osiris/node_modules/grunt-karma/lib/background.js",
+		"/D/Users/Parity/Documents/source/Osiris/node_modules/grunt-karma/LICENSE",
+		"/D/Users/Parity/Documents/source/Osiris/node_modules/grunt-bower-task/node_modules/bower/node_modules/tmp/lib/tmp.js",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/Bracketeer/Example.sublime-keymap",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Users/Parity/Documents/source/SmartMarkdown/smart_list.py",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/SmartMarkdown/smart_list.py",
+		"/D/Users/Parity/Documents/source/SmartMarkdown/Default.sublime-keymap",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/Navigation History/Default (Windows).sublime-keymap",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/U/Wii/wii dance/local-justd3.nfo",
+		"/U/Wii/wii donkey returns/playme-dkcr.nfo",
+		"/U/Wii/wii fortune street/Fortune_Street_USA_WII-ViMTO__www.realmom.info__.nfo",
+		"/U/Wii/wii zumba/Zumba.Fitness.2.USA.WII-dumpTruck__www.realmom.info__.nfo",
+		"/U/Wii/wii_sin/hz-sin-n-p2.nfo",
+		"/U/Wii/wii rune factory/Rune.Factory.Tides.of.Destiny.USA.WII-DiVERSiFY__www.realmom.info__.nfo",
+		"/U/Wii/wii heaven fever/imars-rhf-usa.nfo",
+		"/U/Wii/wii tiger woods/Tiger_Woods_PGA_12_The_Masters_USA_WII-DEFECT__www.realmom.info__.nfo",
+		"/U/Wii/wii spyro/Skylanders.Spyros.Adventure.USA.WII-ProCiSiON__www.realmom.info__.nfo",
+		"/U/Wii/wii rayman origins wii/Rayman.Origins.USA.WII-SUSHi__www.realmom.info__.nfo",
+		"/U/Wii/wii michael jackson/wzrd-mjtruex.nfo",
+		"/U/Wii/wii lego clone/dhc-sc4e64.nfo",
+		"/U/Wii/wii kirby dreamland wii/sushi-krtd.1.nfo",
+		"/U/Wii/wii kirby dreamland wii/sushi-krtd.nfo",
+		"/U/Wii/wii bit trip complete/hugo-btclt.nfo",
+		"/D/Users/Parity/Documents/source/janky/lib/janky/github/api.rb",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/Split/Context.sublime-menu",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/User/OpenSearchResult.sublime-settings",
+		"/D/Users/Parity/Documents/source/janky/CHANGES",
+		"/D/Users/Parity/Documents/source/janky/janky.gemspec",
+		"/D/Users/Parity/Documents/source/janky/lib/janky.rb",
+		"/D/Users/Parity/Documents/source/DevSummit/index.html",
+		"/D/Users/Parity/Documents/source/DevSummit/ElasticSearch/Presentation/SpinScale/2012-03-jugm.html",
+		"/D/Users/Parity/Documents/source/DevSummit/CoffeeScript/Presentation/index.html",
+		"/D/Users/Parity/Documents/source/janky/lib/janky/app.rb",
+		"/D/Users/Parity/Documents/source/chocolateyautomaticpackages/python.x86/python.nuspec",
+		"/D/Users/Parity/Documents/source/BookKeeper/src/.nuget/NuGet.targets",
+		"/D/Users/Parity/Documents/source/nugetpackages/EditorConfig/EditorConfig.nuspec",
+		"/D/Users/Parity/Documents/source/nugetpackages/optipng/OptiPNG.nuspec",
+		"/D/Users/Parity/Documents/source/nugetpackages/Console2/Console2.nuspec",
+		"/D/Users/Parity/Documents/source/nugetpackages/EditorConfig/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/D/Users/Parity/Documents/source/NugetUnofficial/FxCop/tools/Microsoft.VisualStudio.CodeAnalysis.Phoenix.xml",
+		"/D/Users/Parity/Documents/source/nugetpackages/mono/mono.nuspec",
+		"/D/Users/Parity/Documents/source/nugetpackages/mono/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/ResourceKit.2003/ResourceKit.2003.nuspec",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/ResourceKit.2003/rktools.2003.5.2.101212.nupkg",
+		"/D/Users/Parity/Documents/source/package_control_channel/repositories.json",
+		"/D/users/Parity/Documents/source/package_control_channel/repositories.json",
+		"//192.168.1.159/Configfiles/hosts.conf",
+		"//192.168.1.159/Configfiles/remote.conf",
+		"//192.168.1.159/Userdata/advancedsettings.xml",
+		"//192.168.1.159/Userdata/sources.xml",
+		"/D/Users/Parity/Documents/source/chocolateyautomaticpackages/python.x86/tools/chocolateyInstall.ps1",
+		"//readynas/Common/EPSSVC1 (old)/D/Applications/INSTALL_STAGING/Field-Comm/Server/ContactsService/WebConfig_IIS6/Web.config",
+		"//readynas/Common/EPSSVC1 (old)/D/Applications/INSTALL_STAGING/Field-Comm/Server/ClientsService/WebConfig_IIS6/Web.config",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/GoogleChrome.Canary/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/GoogleChrome.Canary/GoogleChrome.Canary.nuspec",
+		"/D/Users/Parity/Documents/source/Ptah/README.md",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/MesloLG/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/ChromeCanary/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/ChromeCanary/ChromeCanary.nuspec",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SublimeText2.app/SublimeText2.app.nuspec",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SABnzbd/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/MesloLG/MesloLG.nuspec",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/MesloLG/SourceCodePro.nuspec",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SublimeText2.app/tools/ChocolateyInstall.ps1",
+		"//hyperion/Users/Administrator/Documents/Downloads/Movie/The Greatest Movie Ever Sold [2011]/The Greatest Movie Ever Sold.nfo.orig",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SQL2008.ClrTypes/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SQL2008.ClrTypes/SQL2008.ClrTypes.nuspec",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SQL2008.SMO/SQL2008.SMO.nuspec",
+		"/C/Chocolatey/chocolateyInstall/helpers/functions/Install-ChocolateyPackage.ps1",
+		"/C/Chocolatey/chocolateyInstall/helpers/functions/Get-ChocolateyWebFile.ps1",
+		"/C/Chocolatey/chocolateyInstall/helpers/functions/Install-ChocolateyInstallPackage.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SQL2008.SMO/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/MSXML6.SP1/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SQL2008.NativeClient/tools/chocolateyInstall.ps1",
+		"/C/Chocolatey/chocolateyInstall/functions/Chocolatey-NuGet.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/OpenSSL.Light/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/OpenSSL.Light/OpenSSL.Light.nuspec",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/OpenSSL/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/OpenSSL/OpenSSL.nuspec",
+		"/C/Chocolatey/chocolateyInstall/helpers/functions/Install-ChocolateyZipPackage.ps1",
+		"/D/Users/Parity/Desktop/eastpointsystems.com.csr",
+		"/d/Users/Parity/Desktop/eastpointsystems.com.key",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/ResourceKit.2003/tools/chocolateyInstall.ps1",
+		"/C/Chocolatey/chocolateyInstall/helpers/functions/Install-ChocolateyDesktopLink.ps1",
+		"/C/Chocolatey/chocolateyInstall/helpers/functions/Install-ChocolateyPath.ps1",
+		"/C/Chocolatey/chocolateyInstall/helpers/functions/Install-ChocolateyPowershellCommand.ps1",
+		"/C/Chocolatey/chocolateyInstall/chocolatey.cmd",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/Terminals/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/source/ChocolateyPackages/SABnzbd/SABnzbd.nuspec",
+		"/D/Users/Parity/Documents/Source Code/ChocolateyPackages/SABnzbd/tools/chocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/Source Code/ChocolateyPackages/SABnzbd/SABnzbd.nuspec",
+		"/D/Users/Parity/Documents/Source Code/ChocoPackages/SublimeText2.app/tools/ChocolateyInstall.ps1",
+		"/D/Users/Parity/Documents/Source Code/ChocoPackages/SublimeText2.app/SublimeText2.nuspec",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/Users/Parity/Desktop/Preferences.sublime-settings",
+		"/C/Users/Parity/AppData/Roaming/Sublime Text 2/Packages/User/SublimeBlockCursor.py",
+		"/D/Users/Parity/Desktop/Default (Windows).sublime-keymap",
+		"//hyperion/Users/Administrator/Documents/Downloads/Movie/I Love You Philip Morris [2009]/I Love You Phillip Morris.nfo.orig",
+		"//hyperion/Users/Administrator/Documents/Downloads/Movie/_FAILED_RENAME_Happy Go Lucky [2008]/movie.nfo",
+		"/U/New Movies/00 - Incomplete/shaun_dead_720p/s-shaun.par2",
+		"/U/New Movies/00 - Incomplete/L'armee_crime_bdrip/guediguian_ladc_xvid.nfo",
+		"//hyperion/Users/Administrator/Documents/Downloads/Movie/300 [2006]/movie.nfo",
+		"//hyperion/Users/Administrator/Documents/Downloads/Movie/The Interrupters [2011]/movie.nfo",
+		"//hyperion/Users/Administrator/Documents/Downloads/Movie/_UNKNOWN_Blue Valentine [2010]/cbgb-bluevalentine720-rerip.nfo"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"D:\\Users\\Parity\\Documents\\source\\janky,*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"execquery",
+			"get_uptime_seconds_win",
+			"wmi",
+			"compute_uptime",
+			"get_uptime_seconds_win",
+			"execquery",
+			"choco",
+			"finished",
+			"regarde",
+			"vagrant",
+			"ruby",
+			"C:\\vagrant\\bin;C:\\ruby193\\bin;C:\\Program Files\\Oracle\\VirtualBox",
+			"//",
+			"spec:",
+			"watch",
+			"shift+tab",
+			"recent",
+			"api",
+			"basic_auth",
+			"%r",
+			"/",
+			".match",
+			"regex",
+			"openssl",
+			"code",
+			"img-jugm/",
+			"../../../",
+			"markdown",
+			"<script",
+			"query",
+			"reveal.js",
+			"zoom.js",
+			"reveal.js",
+			"solarized",
+			"Python",
+			"[string] $",
+			"&",
+			"fileFullPath",
+			"[string] ",
+			"0.7.3",
+			"white",
+			"titles.*?(imdb|identifier).*?,",
+			"titles.*?imdb.*?,",
+			"titles.*?\"imdb\".*?,",
+			"titles:",
+			"\"titles\": \\[.*?\\], \"imdb\":\"tt[0-9]*?\"",
+			"\"titles\":.*?, \"imdb\":\".*?\"",
+			"http://imdb.com/title/.*?/",
+			"\\n",
+			"^.{75}",
+			".*show=(\\d+)\">(.*)</a></td>",
+			"^.*tvShow.*>(.*?)<.*$",
+			"tvshow",
+			"\\n",
+			" ",
+			"^.*tvShow.*>(.*?)<.*$",
+			"^(.*?).{18}$",
+			"^.{0,11}(.*)$",
+			"^.*{0,11}(.*)$",
+			"f3",
+			"  ",
+			"38958",
+			"●",
+			"hyperion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0.7.4",
+			"",
+			"\\2 - id \\1",
+			"",
+			"\\1",
+			"SHOW: \\1",
+			"\\1",
+			"\\n",
+			"*"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/util/ip/windows.rb",
+					"settings":
+					{
+						"buffer_size": 6481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1456,
+								1456
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 582.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/util/manufacturer.rb",
+					"settings":
+					{
+						"buffer_size": 2852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/virtual.rb",
+					"settings":
+					{
+						"buffer_size": 7409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5017,
+								5026
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 44.0,
+						"translation.y": 3174.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/processor.rb",
+					"settings":
+					{
+						"buffer_size": 5450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3831,
+								3831
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3076.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/physicalprocessorcount.rb",
+					"settings":
+					{
+						"buffer_size": 2887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1976,
+								1976
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 966.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/operatingsystemrelease.rb",
+					"settings":
+					{
+						"buffer_size": 5839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5132,
+								5132
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3990.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/memory.rb",
+					"settings":
+					{
+						"buffer_size": 4611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3309,
+								3309
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2526.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/kernelrelease.rb",
+					"settings":
+					{
+						"buffer_size": 1124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								958,
+								958
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/hardwaremodel.rb",
+					"settings":
+					{
+						"buffer_size": 2601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1329,
+								1329
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/lib/facter/domain.rb",
+					"settings":
+					{
+						"buffer_size": 2948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2632,
+								2632
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1398.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/ip/windows_spec.rb",
+					"settings":
+					{
+						"buffer_size": 2655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/manufacturer_spec.rb",
+					"settings":
+					{
+						"buffer_size": 6749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6214,
+								6214
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3534.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/wmi_spec.rb",
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/util/macaddress_spec.rb",
+					"settings":
+					{
+						"buffer_size": 5584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3849,
+								3849
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1830.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/virtual_spec.rb",
+					"settings":
+					{
+						"buffer_size": 20398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13780,
+								13780
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6582.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/processor_spec.rb",
+					"settings":
+					{
+						"buffer_size": 15374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/physicalprocessorcount_spec.rb",
+					"settings":
+					{
+						"buffer_size": 7199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5707,
+								5707
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2118.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/operatingsystemrelease_spec.rb",
+					"settings":
+					{
+						"buffer_size": 10571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8398,
+								8398
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4398.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/netmask_spec.rb",
+					"settings":
+					{
+						"buffer_size": 2936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1309,
+								1309
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/memory_spec.rb",
+					"settings":
+					{
+						"buffer_size": 13972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13582,
+								13644
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10038.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Facter Output.txt",
+					"settings":
+					{
+						"buffer_size": 3818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1001,
+								1001
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 499.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/kernelrelease_spec.rb",
+					"settings":
+					{
+						"buffer_size": 2020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/ipaddress_spec.rb",
+					"settings":
+					{
+						"buffer_size": 3990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1380,
+								1380
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 942.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/ipaddress6_spec.rb",
+					"settings":
+					{
+						"buffer_size": 6434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2626,
+								2626
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1158.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/hardwaremodel_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/D/Users/Parity/Documents/source/00 - Puppet/facter/spec/unit/domain_spec.rb",
+					"settings":
+					{
+						"buffer_size": 9638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5268,
+								5277
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"HACK"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"coffeelint_options":
+							{
+								"camel_case_classes":
+								{
+									"level": "error"
+								},
+								"cyclomatic_complexity":
+								{
+									"level": "ignore",
+									"value": 11
+								},
+								"indentation":
+								{
+									"level": "error",
+									"value": 2
+								},
+								"line_endings":
+								{
+									"level": "ignore",
+									"value": "unix"
+								},
+								"max_line_length":
+								{
+									"level": "error",
+									"value": 80
+								},
+								"no_backticks":
+								{
+									"level": "error"
+								},
+								"no_implicit_braces":
+								{
+									"level": "ignore"
+								},
+								"no_implicit_parens":
+								{
+									"level": "error"
+								},
+								"no_plusplus":
+								{
+									"level": "ignore"
+								},
+								"no_stand_alone_at":
+								{
+									"level": "error"
+								},
+								"no_tabs":
+								{
+									"level": "error"
+								},
+								"no_throwing_strings":
+								{
+									"level": "error"
+								},
+								"no_trailing_semicolons":
+								{
+									"level": "error"
+								},
+								"no_trailing_whitespace":
+								{
+									"level": "error"
+								}
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"indent": 0,
+								"regexdash": true,
+								"sub": false,
+								"trailing": true,
+								"wsh": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3633.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.git":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"uptime",
+				"lib/facter/util/uptime.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"api",
+				"/D/Users/Parity/Documents/source/janky/lib/janky/github/api.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

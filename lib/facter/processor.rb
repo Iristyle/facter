@@ -119,6 +119,39 @@ if Facter.value(:kernel) == "windows"
 
   Thread::exclusive do
     require 'facter/util/wmi'
+    require 'ffi'
+
+    extend FFI::Library
+
+    # http://msdn.microsoft.com/en-us/library/windows/desktop/ms724381(v=vs.85).aspx
+    # void WINAPI GetSystemInfo(_Out_  LPSYSTEM_INFO lpSystemInfo);
+    # define WINAPI __stdcall
+    #
+    # typedef struct _SYSTEM_INFO {
+    #   union {
+    #     DWORD  dwOemId;
+    #     struct {
+    #       WORD wProcessorArchitecture;
+    #       WORD wReserved;
+    #     };
+    #   };
+    #   DWORD     dwPageSize;
+    #   LPVOID    lpMinimumApplicationAddress;
+    #   LPVOID    lpMaximumApplicationAddress;
+    #   DWORD_PTR dwActiveProcessorMask;
+    #   DWORD     dwNumberOfProcessors;
+    #   DWORD     dwProcessorType;
+    #   DWORD     dwAllocationGranularity;
+    #   WORD      wProcessorLevel;
+    #   WORD      wProcessorRevision;
+    # } SYSTEM_INFO;
+
+    # http://msdn.microsoft.com/en-us/library/windows/desktop/aa383751(v=vs.85).aspx
+    # http://msdn.microsoft.com/en-us/library/cc230309.aspx
+    ffi_lib :kernel32
+    ffi_convention :stdcall
+    attach_function :GetTickCount64, [ ], :int
+
 
     # get each physical processor
     Facter::Util::WMI.execquery("select * from Win32_Processor").each do |proc|
